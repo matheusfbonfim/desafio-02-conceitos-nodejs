@@ -102,9 +102,17 @@ Esse desafio deve ser entregue a partir da plataforma Skylab, envie o link do re
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+O projeto está sobre a licença [MIT](./LICENSE) ❤️ 
 
+Gostou? Deixe uma estrelinha para ajudar o projeto ⭐
+
+<!-- Mensagem final -->
+<h3 align="center">
+Feito com ❤️ por <a href="https://www.linkedin.com/in/matheusfbonfim/">Matheus Bonfim</a>
+<br><br>
+<a href="https://rocketseat.com.br">
+  <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
+</a>
+</h3>
+</h3>
 ---
-
-Feito com 💜 by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
-
